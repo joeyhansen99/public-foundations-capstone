@@ -5,7 +5,7 @@ package com.kenzie.app;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import java.util.Scanner;
-
+//created by joey hansen
 public class Main {
     /* Java Fundamentals Capstone project:
        - Define as many variables, properties, and methods as you decide are necessary to

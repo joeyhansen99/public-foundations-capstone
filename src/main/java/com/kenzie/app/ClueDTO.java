@@ -1,7 +1,7 @@
 package com.kenzie.app;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
-
+//created by joey hansen
 public class ClueDTO {
     @JsonProperty("canon")  //c
     public boolean canon;
